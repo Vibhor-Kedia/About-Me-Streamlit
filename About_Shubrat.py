@@ -18,4 +18,4 @@ st.markdown("---")
 
 st.success("He is very proud of his skill in table tennis.")
 
-st.info("Fun Fact: He has a twin brother - Vibhor Kedia.)
+st.info("Fun Fact: He has a twin brother - Vibhor Kedia.")
