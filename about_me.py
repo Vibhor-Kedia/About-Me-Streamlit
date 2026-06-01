@@ -1,5 +1,4 @@
 import streamlit as st
-from PIL import Image
 
 st.title("Vibhor Kedia")
 
@@ -10,7 +9,7 @@ st.markdown("---")
 
 st.header("My hobbies and interests:")
 st.write("""
-- Coding (prefers C++ but enjoys Python too)  
+- Coding (I prefer C++ but enjoy Python too)  
 - Robotics 🤖  
 - Abstract mathematics  
 - Cubing (~20s average on 3x3 Rubik’s Cube)  
